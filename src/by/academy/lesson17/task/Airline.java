@@ -1,7 +1,6 @@
 package src.by.academy.lesson17.task;
 
 import java.sql.Time;
-import java.util.concurrent.TimeUnit;
 
 public class Airline {
     //пункт назначения, номер рейса, тип самолета, время вылета, дни недели.

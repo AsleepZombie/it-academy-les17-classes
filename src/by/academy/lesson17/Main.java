@@ -7,7 +7,6 @@ import src.by.academy.lesson17.task.aggregator.CustomerAggregator;
 import src.by.academy.lesson17.util.Splitter;
 
 import java.sql.Time;
-import java.sql.Timestamp;
 
 public class Main {
     public static void main(String[] args) {
